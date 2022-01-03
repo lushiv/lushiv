@@ -1,8 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/DCBZPY6/Microsoft-Teams-image.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/1dBcWVJ/Landscape-Travel-Photo-You-Tube-Thumbnail.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Janak Raikhola</h1>
 <h3 align="center">I'm a passionate Backend Developer from Nepal 🇳🇵.</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -31,7 +30,7 @@
      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://i.ibb.co/4FmzPCy/django-logo-negative.png" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://github.com/lushiv/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Janak Raikhola streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lushiv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
