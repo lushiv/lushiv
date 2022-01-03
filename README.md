@@ -30,7 +30,7 @@
      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://i.ibb.co/4FmzPCy/django-logo-negative.png" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 </p>
-<p align="center">
+<p align="left">
     <a href="https://github.com/lushiv/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Janak Raikhola streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lushiv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
