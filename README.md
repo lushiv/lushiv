@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jraikhola02@gmail.com**
 
-- 🧘🏽‍♂️ Hobbies:- **Meditation | Watching Movies and Series |Reading Books**
+- 🧘🏽‍♂️ Hobbies:- **Meditation | Watching Movies and Series | Reading Books**
 
 ## 🚀 Languages and Tools:
 
