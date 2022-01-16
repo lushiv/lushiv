@@ -26,18 +26,16 @@
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="linux" width="40" height="40"/> </a>
  </p>
 
+<a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br>
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <br />
-
-<a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/janak-raikhola-a154831b0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
