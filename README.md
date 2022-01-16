@@ -19,7 +19,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" alt="linux" width="40" height="40"/> </a>
@@ -40,7 +39,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/janak-raikhola-a154831b0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lushiv">
 </a>
