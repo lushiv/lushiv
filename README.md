@@ -7,7 +7,8 @@
 
 - 💻 I’m currently working on **[Bitsbeat](https://www.bitsbeat.com/)**
 
-- 📖 I’m currently learning **Data Structures,Algorithms and [Dapps](https://ethereum.org/en/developers/docs/dapps/).**
+- 📖 I’m currently learning **Data Structures,Algorithms,Web3,Smart contract
+ and [Dapps](https://ethereum.org/en/developers/docs/dapps/).**
 
 - 👁️ I’m looking to collaborate on **OpenSource Projects**
 
