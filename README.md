@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Janak Raikhola</h1>
+<h1 align="left">Hi,I'm Janak Raikhola</h1>
 <h3 align="left">I'm a passionate Back-end Developer from Nepal.</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/SxkD2nb/Add-a-subheading.gif" height="175px"/></a>
