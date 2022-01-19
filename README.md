@@ -3,7 +3,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/SxkD2nb/Add-a-subheading.gif" height="175px"/></a>
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 💻 I’m currently working on **[Bitsbeat](https://www.bitsbeat.com/)**
 
