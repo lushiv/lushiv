@@ -5,21 +5,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/y6DXSfB/key-lock-password-security-privacy-protection-graphic-53876-121252.jpg" height="175px"/></a>
 
-
 ## About Me
-
-- 💻 I’m currently working on **[Bitsbeat](https://www.bitsbeat.com/)**
-
-- 📖 I’m currently learning **Data Structures,Algorithms,Web3,Smart contract
- and [Dapps](https://ethereum.org/en/developers/docs/dapps/).**
-
-- 👁️ I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 I was born to learn new **Technologies.**
-
-- 📫 How to reach me **jraikhola02@gmail.com**
-
-- 🧘🏽‍♂️ Hobbies:- **Meditation | Watching Movies and Series | Reading Books**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
