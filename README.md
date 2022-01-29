@@ -5,8 +5,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/y6DXSfB/key-lock-password-security-privacy-protection-graphic-53876-121252.jpg" height="175px"/></a>
 
-## About Me
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
