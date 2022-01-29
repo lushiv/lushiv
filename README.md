@@ -1,7 +1,7 @@
 <h1 align="left">Hi,I'm Janak Raikhola</h1>
 
 ```
-I'm a passionate Backend Developer from Nepal
+**I'm a passionate Backend Developer from Nepal** 
 ```
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
@@ -10,9 +10,9 @@ I'm a passionate Backend Developer from Nepal
 
 ```
 I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast, 
-Software Architect and a spiritual guy from Nepal, 
-South Asia. I mostly deal with backend development with python, 
-node js,web3 js, REST API, MySQL etc, backend development stack these days. 
+Software Architect and a spiritual guy from Nepal.
+I mostly deal with backend development with python, 
+node js,web3 js, REST API, MySQL etc. 
 I have 2+ years of development experience in the backend. 
 I have also worked with web3 and some blockchain projects.
 ```
