@@ -6,7 +6,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/y6DXSfB/key-lock-password-security-privacy-protection-graphic-53876-121252.jpg" height="175px"/></a>
 
 ```
-I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast, Software Architect and a spiritual guy from Nepal, South Asia. I mostly deal with backend development with python, node js,web3 js, REST API, MySQL etc, backend development stack these days. I have 2+ years of development experience in the backend. I have also worked with web3 and some blockchain projects.
+I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast, 
+Software Architect and a spiritual guy from Nepal, 
+South Asia. I mostly deal with backend development with python, 
+node js,web3 js, REST API, MySQL etc, backend development stack these days. 
+I have 2+ years of development experience in the backend. 
+I have also worked with web3 and some blockchain projects.
 ```
 
 <h3 align="left">Languages and Tools:</h3>
