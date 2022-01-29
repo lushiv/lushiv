@@ -1,5 +1,7 @@
 <h1 align="left">Hi,I'm Janak Raikhola</h1>
-<h3 align="left"> Backend Developer | Tech Enthusiast | Researcher </h3>
+```
+<h4 align="left"> Backend Developer | Tech Enthusiast | Researcher </h4>
+```
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
