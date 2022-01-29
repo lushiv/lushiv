@@ -1,5 +1,7 @@
 <h1 align="left">Hi,I'm Janak Raikhola</h1>
-<h3 align="left">I'm a passionate Backend Developer from Nepal.</h3>
+```
+I'm a passionate Backend Developer from Nepal
+```
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
