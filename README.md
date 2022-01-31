@@ -4,7 +4,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="#"><img width="100%" height="auto" src="https://ibb.co/LpM1MrH" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/tCSDSzF/Clean-Work-Place-Blog-Banner-1.gif" height="175px"/></a>
 
 ```
 I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast, 
