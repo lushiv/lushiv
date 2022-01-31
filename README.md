@@ -4,7 +4,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/y6DXSfB/key-lock-password-security-privacy-protection-graphic-53876-121252.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://ibb.co/LpM1MrH" height="175px"/></a>
 
 ```
 I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast, 
