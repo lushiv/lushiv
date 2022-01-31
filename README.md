@@ -15,6 +15,7 @@ node js,web3 js, REST API, MySQL etc.
 I have 2+ years of development experience in the backend. 
 I have also worked with web3 and some blockchain projects.
 ```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,9 +24,12 @@ I have also worked with web3 and some blockchain projects.
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" alt="linux" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="linux" width="40" height="40"/> </a>
  </p>
+ 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -37,6 +41,8 @@ I have also worked with web3 and some blockchain projects.
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/janak-raikhola-a154831b0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
