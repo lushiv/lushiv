@@ -1,4 +1,4 @@
-<h1 align="left">Hi,I'm Lekhraj Rokaya</h1>
+<h1 align="left">Hi,Janak Raikhola </h1>
 
 <h3 align="left"> Backend Developer | Tech Enthusiast | Researcher </h3>
 
