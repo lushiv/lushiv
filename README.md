@@ -14,7 +14,7 @@ I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast,
 Software Architect and a spiritual guy from Nepal.
 I mostly deal with backend development with python, 
 node js,web3 js, REST API, MySQL etc. 
-I have 2+ years of development experience in the backend. 
+I have 3+ years of development experience in the backend. 
 I have also worked with web3 and some blockchain projects.
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
