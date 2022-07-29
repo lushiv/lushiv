@@ -1,8 +1,7 @@
 <h1 align="left">Hi,M Janak Raikhola </h1>
 
 <h3 align="left"> Backend Developer | Tech Enthusiast | Researcher </h3>
-
-Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3 | Data Scraping | Researcher
+Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  |MySql | MongoDB | Data Scraping | Researcher
 
 ### Click [Here](https://lushiv.github.io/portfolio/) For Portfolio
 
