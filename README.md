@@ -5,6 +5,8 @@ Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql 
 
 ### Click [Here](https://lushiv.github.io/portfolio/) For Portfolio
 
+### [Download CV](https://drive.google.com/file/d/1XFUo9-FJO5YQoztgRWxFMENeAr2rM9mO/view?usp=sharing)
+
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/tCSDSzF/Clean-Work-Place-Blog-Banner-1.gif" height="175px"/></a>
