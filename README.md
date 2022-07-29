@@ -3,7 +3,7 @@
 <h3 align="left"> Backend Developer | Tech Enthusiast | Researcher </h3>
 Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping | Researcher
 
-### Click [Here](https://lushiv.github.io/portfolio/) For Portfolio
+### [Portfolio Link](https://lushiv.github.io/portfolio/)
 
 ### [Download CV](https://drive.google.com/file/d/1XFUo9-FJO5YQoztgRWxFMENeAr2rM9mO/view?usp=sharing)
 
