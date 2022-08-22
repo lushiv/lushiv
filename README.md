@@ -12,12 +12,37 @@ Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql 
 ### [Download CV](https://drive.google.com/file/d/1XFUo9-FJO5YQoztgRWxFMENeAr2rM9mO/view?usp=sharing)
 
 ```
-I'm Janak Singh Raikhola (lushiv) - a Back end  Developer, Tech Enthusiast, 
-Software Architect and a spiritual guy from Nepal.
-I mostly deal with backend development with python, 
-node js,web3 js, REST API, MySQL etc. 
-I have 3+ years of development experience in the backend. 
-I have also worked with web3 and some blockchain projects.
+Back-end & Blockchain Developer, tech enthusiast, software architect and tech researcher. I mostly deal with backend development with python, node js,web3 js, REST API, Microservices, data scraping etc. I have 3+ years of development experience in the backend.
+
+1. Programming Language:-
+* Python | Nodejs
+
+2. Databases:-
+* Mysql | MongoDB | PostgreSQL | Redis | Graph Database
+
+3. Queueing Service:-
+* RabbitMq | Kafka
+
+4. Data Scraping:-
+* Selenium | Beautiful Soup | Pandas | Requests | Jupyter Notebook
+
+4. Microservices:-
+* Grpc | Protobuff | Nodejs
+
+5. Blockchain Services:-
+* Web3js | Daaps | Erc20/721
+
+6. Crypto Payment Gateways:-
+* Bitcoin | Litecoin | Ethereum | Binance | Ripple | Erc20 | Dash
+
+7. Cloud:-
+* AWS | boto3 library | DigitalOcean | Google Cloud
+
+8. Frameworks:-
+* Django | Flask REST API | ExpressJs | FastAPI | Scrapy
+
+9. Extra Tools:-
+* Docker | MySQL Workbench | Git | Postman | BloomRpc | MongoDB compass | Jira | Trello | Slack | Vscode | Jupyter Notebook |
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
