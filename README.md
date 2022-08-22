@@ -1,6 +1,6 @@
 <h1 align="left">Hi,M Janak Raikhola </h1>
 
-<h3 align="left"> Backend && Blockchain Developer | Tech Enthusiast | Researcher </h3>
+<h3 align="left"> Backend & Blockchain Developer | Tech Enthusiast | Researcher </h3>
 Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping | Internet Researcher
 
 ### [Portfolio Link](https://lushiv.github.io/portfolio/)
