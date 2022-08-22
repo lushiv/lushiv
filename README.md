@@ -12,7 +12,9 @@ Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql 
 ### [Download CV](https://drive.google.com/file/d/1XFUo9-FJO5YQoztgRWxFMENeAr2rM9mO/view?usp=sharing)
 
 ```
-Back-end & Blockchain Developer, tech enthusiast, software architect and tech researcher. I mostly deal with backend development with python, node js,web3 js, REST API, Microservices, data scraping etc. I have 3+ years of development experience in the backend.
+Back-end & Blockchain Developer, tech enthusiast, software architect and tech researcher. 
+I mostly deal with backend development with python, node js,web3 js, REST API, Microservices, 
+data scraping etc. I have 3+ years of development experience in the backend.
 
 1. Programming Language:-
 * Python | Nodejs
@@ -42,7 +44,8 @@ Back-end & Blockchain Developer, tech enthusiast, software architect and tech re
 * Django | Flask REST API | ExpressJs | FastAPI | Scrapy
 
 9. Extra Tools:-
-* Docker | MySQL Workbench | Git | Postman | BloomRpc | MongoDB compass | Jira | Trello | Slack | Vscode | Jupyter Notebook |
+* Docker | MySQL Workbench | Git | Postman | BloomRpc | MongoDB compass | Jira | Trello 
+| Slack | Vscode | Jupyter Notebook |
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
