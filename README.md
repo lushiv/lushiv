@@ -3,7 +3,7 @@
 <h3 align="left"> Backend & Blockchain Developer | Tech Enthusiast | Researcher </h3>
 Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping | Internet Researcher
 
-### [Portfolio Link](https://lushiv.github.io/portfolio/)
+### [Portfolio Link](https://www.jraikhola.com.np/)
 
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/kxD1cqL/Add-a-subheading.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
