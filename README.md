@@ -1,7 +1,7 @@
 <h1 align="left">Hi,M Janak Raikhola </h1>
 
 <h3 align="left"> Backend & Blockchain Developer | Tech Enthusiast | Researcher </h3>
-Python | Nodejs | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping | Internet Researcher
+Python | Nodejs | Golang | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping | Internet Researcher
 
 ### [Portfolio Link](https://www.jraikhola.com.np/)
 
@@ -17,7 +17,7 @@ I mostly deal with backend development with python, node js,web3 js, REST API, M
 data scraping etc. I have 3+ years of development experience in the backend.
 
 1. Programming Language:-
-* Python | Nodejs
+* Python | Nodejs | Golang
 
 2. Databases:-
 * Mysql | MongoDB | PostgreSQL | Redis | Graph Database
