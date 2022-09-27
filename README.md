@@ -1,7 +1,7 @@
 <h1 align="left">Hi,M Janak Raikhola </h1>
 
 <h3 align="left"> Backend & Blockchain Developer | Tech Enthusiast | Researcher </h3>
-Python | Nodejs | Golang | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping | Internet Researcher
+Python | Nodejs | Golang | Micorservices | gRPC | Django | Flask-RESTful | Web3  | MySql | MongoDB | Data Scraping
 
 ### [Portfolio Link](https://www.jraikhola.com.np/)
 
