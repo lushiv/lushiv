@@ -57,6 +57,8 @@ data scraping etc. I have 3+ years of development experience in the backend.
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="linux" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="linux" width="40" height="40"/> </a>
  </p>
  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
+ 
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -84,4 +86,4 @@ data scraping etc. I have 3+ years of development experience in the backend.
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
+
