@@ -80,7 +80,8 @@ data scraping etc. I have 3+ years of development experience in the backend.
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lushiv">
 </a>
-<a href="https://github.com/lushiv?tab=followers"><img src="https://img.shields.io/github/followers/lushiv?label=Followers&style=social" alt="GitHub Ba
+<a href="https://github.com/lushiv?tab=followers"><img src="https://img.shields.io/github/followers/lushiv?label=Followers&style=social" alt="GitHub
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
