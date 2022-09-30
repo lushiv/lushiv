@@ -67,10 +67,18 @@ data scraping etc. I have 3+ years of development experience in the backend.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Go](https://i.ibb.co/Gs1cTq5/Go-Logo-Blue.png)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![bitcoin](https://img.shields.io/badge/-bitcoin-05122A?style=flat&logo=bitcoin)&nbsp;
+![ethereum](https://img.shields.io/badge/-ethereum-05122A?style=flat&logo=ethereum)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
+![rabbitmq](https://img.shields.io/badge/-rabbitmq-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br />
