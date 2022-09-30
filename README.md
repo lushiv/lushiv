@@ -50,12 +50,13 @@ data scraping etc. I have 3+ years of development experience in the backend.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
