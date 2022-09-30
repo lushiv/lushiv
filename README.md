@@ -50,7 +50,6 @@ data scraping etc. I have 3+ years of development experience in the backend.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
@@ -68,14 +67,15 @@ data scraping etc. I have 3+ years of development experience in the backend.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
 ### 🛠 &nbsp;Blockchain Tech Stack
 ![bitcoin](https://img.shields.io/badge/-bitcoin-05122A?style=flat&logo=bitcoin)&nbsp;
 ![ethereum](https://img.shields.io/badge/-ethereum-05122A?style=flat&logo=ethereum)&nbsp;
