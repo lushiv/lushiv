@@ -64,7 +64,7 @@ data scraping etc. I have 3+ years of development experience in the backend.
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
