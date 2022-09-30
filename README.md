@@ -67,6 +67,7 @@ data scraping etc. I have 3+ years of development experience in the backend.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://i.ibb.co/Gs1cTq5/Go-Logo-Blue.png)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
