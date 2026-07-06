@@ -9,7 +9,6 @@ Python | Nodejs | Golang | Micorservices | gRPC | Django | Flask-RESTful | Web3 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/tCSDSzF/Clean-Work-Place-Blog-Banner-1.gif" height="175px"/></a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [Download CV](https://drive.google.com/file/d/1XFUo9-FJO5YQoztgRWxFMENeAr2rM9mO/view?usp=sharing)
 
 ```
 Back-end & Blockchain Developer, tech enthusiast, software architect and tech researcher. 
